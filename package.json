@@ -1,0 +1,27 @@
+{
+  "name": "NextJS-pokedex",
+  "version": "1.0.0",
+  "description": "- Objetivo: Praticar conceitos e Hooks de React e também NEXT js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunotdantas/NextJS-pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunotdantas/NextJS-pokedex/issues"
+  },
+  "homepage": "https://github.com/brunotdantas/NextJS-pokedex#readme",
+  "dependencies": {
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
